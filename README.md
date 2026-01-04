@@ -9,7 +9,12 @@ My goal in making these notes was to synthesize my knowledge and understanding o
 ## Conversion and Release Cycle
 To convert my notes into the LaTeX format uploaded to this repository, I utilized Python scripts and LLM assistance to translate my Markdown documents into LaTeX. The PDF documents in this repository represent "stable releases" of the material. Since the source files are maintained in Obsidian for daily use across multiple platforms, these PDFs are updated periodically to reflect major addenda or errata. New course notes will be uploaded as they reach maturity.
 
+## Acknowledgements
+I would like to express my sincere gratitude to the professors who delivered the original lectures upon which these notes are based. Their expertise, clarity, and dedication to teaching were instrumental in my understanding of these subjects and provided the essential foundation for this work.
+
 ## Disclaimer
+Please note that while the content closely follows the lectures delivered by my professors, the structure and phrasing reflect my own conceptualization of the material. I have made several modifications to the original curriculum, such as including proofs I investigated independently that were not covered in class, or omitting and re-ordering sections based on my background from other courses.
+
 These notes are a synthesis of my personal understanding derived from university lectures. While every effort has been made to ensure mathematical accuracy, they are ultimately intended as a student reference and may contain errors.
 
 ## Copyright
